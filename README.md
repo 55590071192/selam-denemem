@@ -1,2 +1,0 @@
-# selam-denemem
-deneme1
